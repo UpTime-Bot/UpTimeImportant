@@ -1,4 +1,7 @@
-Hata Kodu                                      Nedeni
+Hata Kodu   
+
+
+                                   Nedeni
 402                                            Link hatalı girildi veya hiç bir link belirtilmedi.
 20                                             Link zaten sistemde bulunuyor yada sistemden link yasaklandı.
 40                                             Link ekleme limitine ulaştınız.
