@@ -18,6 +18,9 @@ UpTime Hizmet Şartları (ToS)
 3.2- Oluşabilecek bütün aksaklıklardan  - Glitch projesinin askıya alınması - kullanıcı sorumludur.
 
   4- UpTime Yetkilileri Hakları
+  
+  
+  
 4.1- Madde 3.2'de bahsedildiği gibi aksaklıklardan kullanıcı sorumludur ve UpTime yetkililerinin herhangi bir sorumluluğu yoktur.
 
 
