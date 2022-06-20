@@ -8,6 +8,9 @@ UpTime Hizmet Şartları (ToS)
 1.2- Bütün Executable ürünlerini kullanırken Discord ToS kurallarınada uymalısınız.
 
    2- Yasaklar
+   
+   
+   
 2.1- UpTime botunun kuralları https://discord.com/channels/962669052558467112/967478895077097472 kanalında yazan maddeleri içermektedir.
 
    3- Kullanıcı Hakları
