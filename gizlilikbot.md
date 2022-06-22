@@ -53,6 +53,15 @@ Link - Kullanıcının link ekleme komutu ile belirttiği link/adres.
 
 ID'si, ismi, profil fotoğrafı, üye sayısı, sunucu sahibi, kanal sayısı, bot eklenme tarihi.
 
+• Üye:
+
+
+
+
+
+ID'si, ismi, hesap oluşturulma tarihi, sunucuya giriş tarihi.
+
+
 
 
 
