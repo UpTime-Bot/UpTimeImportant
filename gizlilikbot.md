@@ -1,5 +1,8 @@
 UpTime Bot Gizlilik Politikası
-Son Değiştirilme Tarihi : 03.06.2022
+
+
+
+Son Değiştirilme Tarihi : 22.06.2022
 
 Bu gizlilik politikası UpTime (947508799386820608) botunundur. Sitenin gizlilik politikası değildir!
 
