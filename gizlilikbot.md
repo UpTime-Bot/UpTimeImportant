@@ -1,81 +1,33 @@
-UpTime Bot Gizlilik Politikası
+Bu gizlilik politikası, UpTime (947508799386820608) botu için geçerlidir. Bu politika, UpTime botunun kullanımı sırasında toplanan ve saklanan verilerinizi açıklamaktadır. Lütfen dikkatlice okuyun.
 
+Tanımlar
 
+    Kullanıcı: Discord platformunda kayıtlı olan her bir birey.
+    ID: Her kullanıcıya özel olarak oluşturulan ve kullanıcıyı temsil eden benzersiz bir kimlik.
+    Sunucu: Discord platformunda kayıtlı olan her bir bireyin sahip olduğu sunucular.
+    Link: Kullanıcının belirttiği link veya adres.
 
-Son Değiştirilme Tarihi : 22.06.2022
+Toplanan Veriler
 
-Bu gizlilik politikası UpTime (947508799386820608) botunundur. Sitenin gizlilik politikası değildir!
+1A) Kullanıcı Tarafından Girilen Veriler
 
-Bilgi
-Kullanıcı – Discord platformuna kayıtlı olan her bir tekil kullanıcı.
+    Kullanıcı ID'si
+    Kullanılan sunucu ID'si
+    Kullanıcının sisteme eklediği link(ler)
 
+2B) Otomatik Olarak Toplanan Veriler
 
+    Sunucu:
+        ID, isim, profil fotoğrafı, üye sayısı, sunucu sahibi, kanal sayısı, botun eklenme tarihi.
+    Üye:
+        ID, isim, hesap oluşturulma tarihi, sunucuya giriş tarihi.
 
-ID – Her kullanıcıya özgü oluşturulmuş, kullanıcıyı temsil eden bir kimlik.
+Veri Güvenliği
 
+Verileriniz, erişimi kısıtlanmış veritabanlarında şifreleme yöntemleriyle saklanır. Verilerinizin gizliliği hakkında endişeleriniz veya sorularınız varsa, support@uptimebot.site adresine e-posta göndererek bize ulaşabilirsiniz. Yardım almak için bir destek talebi oluşturabilirsiniz.
 
+Veri Silme
 
-Sunucu – Discord platformuna kayıtlı olan her bir tekil sunucu.
+Verilerinizin silinmesi talebinde bulunma hakkınız bulunmaktadır. Verilerinizin tamamen silinmesi için executablem (487690544361766912) isimli ve ID'li kullanıcıya doğrudan mesaj göndererek veya support@uptimebot.site adresine e-posta göndererek talebinizi iletebilirsiniz. Talebiniz, alındıktan sonra 30 gün içerisinde işleme alınacaktır.
 
-
-
-Link - Kullanıcının link ekleme komutu ile belirttiği link/adres.
-
-
-
-1) Saklanan Verileriniz
-
-
-
-1A) Komut Kullanılarak Saklanılan Veriler
-
-
-
-
-• Kullanıcı ID'si
-
-
-
-
-• Kullanılan sunucu ID'si
-
-
-
-• Kullanıcının sistemimize ekledigi link(ler)
-
-
-
-
-2B) Otomatik Saklanılan Veriler
-
-
-
-• Sunucu:
-
-
-
-ID'si, ismi, profil fotoğrafı, üye sayısı, sunucu sahibi, kanal sayısı, bot eklenme tarihi.
-
-• Üye:
-
-
-
-
-
-ID'si, ismi, hesap oluşturulma tarihi, sunucuya giriş tarihi.
-
-
-
-
-
-3) Verilerinizin Korunumu
-
-
-
-Verileriniz, şifrelenme yöntemiyle, erişime kısıtlı bir veri tabanlarında saklanır. Verilerinizin gizlenimi hakkında bize support@uptimeweb.cf iletişim adresinden elektronik posta gönderebilirsiniz. Verileriniz hakkında bir endişeniz veya sorunuz bulunmaktaysa, bilet oluşturarak yardım alabilirsiniz.
-
-4) Verilerinizin Silinimi
-
-
-
-Verilerinizin silinmesi hakkında talep oluşturmakta özgürsünüz. Verilerinizin tamamen silinmesi için talep isteğinizi LOX | Weasley#2429 (576367632752705546) isim etiketli ve ID'li kullanıcıya Direkt Mesaj atarak ya da support@uptimeweb.cf iletişim adresinden elektronik posta göndererek iletebilirsiniz. Talebiniz, alındıktan 30 gün içinde işleme alınır. 
+Son Güncelleme Tarihi: 18.06.2023
